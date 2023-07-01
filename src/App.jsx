@@ -1,7 +1,13 @@
 // import "./App.css";
 
+import ProjectsPage from "./projects/ProjectsPage";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <ProjectsPage />
+    </>
+  );
 }
 
 export default App;
